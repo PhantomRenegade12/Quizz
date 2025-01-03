@@ -71,7 +71,7 @@ if answer.lower() == "oui":
 else:
     print("Incorrect!")
 
-answer = input("Est-il utile risquer d'utilisé une connexion Wi-Fi publique pour des achats en ligne ? ")
+answer = input("Est-il risquer d'utilisé une connexion Wi-Fi publique pour des achats en ligne ? ")
 if answer.lower() == "oui":
     print('Correct!')
     score += 1
